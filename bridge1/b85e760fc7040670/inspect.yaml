@@ -1,0 +1,134 @@
+---
+:header:
+  :junme: 2
+  :bridge_id: 1
+  :inspect_cd: b85e760fc7040670
+  :judge_kbn: 0
+  :memo: ''
+  :created: '2020-11-29 22:40:03 +0900'
+  :finished: 
+  :latest: 
+:bridge:
+  :id: 1
+  :bridge_name: 橋梁４
+  :bridge_name_kana: キョウリョウ４
+  :route_name: 東西線
+  :address: 大阪府堺市中区深井沢町３３４７
+  :address_kana: オオサカフ　サカイシ　ナカク　フカイサワマチ　３３４７
+  :bridge_type: 
+  :load_limit: 
+  :location_longitude: 135.4985507
+  :location_latitude: 34.5305434
+  :road_condition: 生活道路
+  :alternative_road: true
+  :road_division_cd: 1
+  :emergency_transport_road: false
+  :traffic_volume: 500
+  :occupied_property: false
+  :occupied_property_name: ''
+  :construction_year: 1962
+  :bridge_length: 222
+  :bridge_width: 9
+  :number_of_piers: 2
+  :number_of_spans: 2
+  :number_of_griders: 1
+  :number_of_beams: 2
+:outline:
+  :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/outline.jpeg"
+  :memo: ''
+:inspects:
+- :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/part_part_pavement_1.jpeg"
+  :seq: 1
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_PAVEMENT
+  :name: 舗装面
+  :checks: []
+- :image: 
+  :seq: 2
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_GRIDER
+  :name: 主桁
+  :checks: []
+- :image: 
+  :seq: 3
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_BEAM
+  :name: 横桁
+  :checks: []
+- :image: 
+  :seq: 4
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_BEAM
+  :name: 横桁
+  :checks: []
+- :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/part_part_deck_5.jpeg"
+  :seq: 5
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_DECK
+  :name: 床板
+  :checks:
+  - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/check_part_deck_5_0.jpeg"
+    :seq: 0
+    :memo: ''
+    :map:
+      :x: -0.17785234899328858
+      :y: -0.05480984340044743
+      :z: 
+    :damages:
+    - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/damage_part_deck_5_0_0.jpeg"
+      :seq: 0
+      :memo: ''
+      :judge_kbn: 1
+      :map:
+        :x: 0.04530201342281879
+        :y: -0.18008948545861297
+        :z: 
+- :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/part_part_abutment_6.jpeg"
+  :seq: 6
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks:
+  - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/check_part_abutment_6_0.jpeg"
+    :seq: 0
+    :memo: ''
+    :map:
+      :x: -0.031879194630872486
+      :y: -0.25838926174496646
+      :z: 
+    :damages:
+    - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/damage_part_abutment_6_0_0.jpeg"
+      :seq: 0
+      :memo: ''
+      :judge_kbn: 2
+      :map:
+        :x: -0.025167785234899327
+        :y: -0.12416107382550336
+        :z: 
+- :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/part_part_abutment_7.jpeg"
+  :seq: 7
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks: []
+- :image: 
+  :seq: 8
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_PIER
+  :name: 橋脚
+  :checks: []
+- :image: 
+  :seq: 9
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_PIER
+  :name: 橋脚
+  :checks: []
