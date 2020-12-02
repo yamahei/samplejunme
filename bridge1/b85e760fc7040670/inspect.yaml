@@ -3,10 +3,10 @@
   :junme: 2
   :bridge_id: 1
   :inspect_cd: b85e760fc7040670
-  :judge_kbn: 0
-  :memo: ''
+  :judge_kbn: 2
+  :memo: コミットテスト用に点検を完了する
   :created: '2020-11-29 22:40:03 +0900'
-  :finished: 
+  :finished: '2020-12-02T14:19:13.179Z'
   :latest: 
 :bridge:
   :id: 1
@@ -97,7 +97,7 @@
   :checks:
   - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/check_part_abutment_6_0.jpeg"
     :seq: 0
-    :memo: 'aa'
+    :memo: aa
     :map:
       :x: -0.031879194630872486
       :y: -0.25838926174496646
