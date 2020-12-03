@@ -4,9 +4,11 @@
   :bridge_id: 1
   :inspect_cd: b85e760fc7040670
   :judge_kbn: 2
-  :memo: コミットテスト用に点検を完了する
+  :memo: |-
+    コミットテスト用に点検を完了する
+    競合テスト用に変更
   :created: '2020-11-29 22:40:03 +0900'
-  :finished: '2020-12-02T14:19:13.179Z'
+  :finished: '2020-12-03T10:41:14.397Z'
   :latest: 
 :bridge:
   :id: 1
