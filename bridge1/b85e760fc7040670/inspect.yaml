@@ -11,7 +11,7 @@
 :bridge:
   :id: 1
   :bridge_name: 橋梁４
-  :bridge_name_kana: キョウリョウ４
+  :bridge_name_kana: キョウリョウ４：競合テスト
   :route_name: 東西線
   :address: 大阪府堺市中区深井沢町３３４７
   :address_kana: オオサカフ　サカイシ　ナカク　フカイサワマチ　３３４７
