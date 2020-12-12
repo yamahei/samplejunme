@@ -3,12 +3,12 @@
   :junme: 2
   :bridge_id: 1
   :inspect_cd: b85e760fc7040670
-  :judge_kbn: 2
-  :memo: |-
+  :judge_kbn: 1
+  :memo: |
     コミットテスト用に点検を完了する
     競合テスト用に変更→この行を競合させる<-lets conflict!
   :created: '2020-11-29 22:40:03 +0900'
-  :finished: '2020-12-03T11:15:34.180Z'
+  :finished: '2020-12-12T14:43:17.619Z'
   :latest: 
 :bridge:
   :id: 1
