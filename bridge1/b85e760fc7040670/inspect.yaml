@@ -37,7 +37,9 @@
   :number_of_beams: 2
 :outline:
   :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/outline.jpeg"
-  :memo: コミットのテスト
+  :memo: |-
+    コミットのテスト
+    パスワード間違えてコミットする
 :inspects:
 - :image: "/inspects/repositories/junme2/bridge1/b85e760fc7040670/part_part_pavement_1.jpeg"
   :seq: 1
