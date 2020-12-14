@@ -1,0 +1,83 @@
+---
+:header:
+  :junme: 2
+  :bridge_id: 4
+  :inspect_cd: dd9821d47577d8ad
+  :judge_kbn: 0
+  :memo: ''
+  :created: '2020-12-14 00:01:07 +0900'
+  :finished: 
+  :latest: 
+:bridge:
+  :id: 4
+  :bridge_name: 鹿谷橋
+  :bridge_name_kana: シカダニハシ
+  :route_name: 町道梅木原線
+  :address: 奥出雲町亀嵩
+  :address_kana: オクイズモチョウカメダケ
+  :bridge_type: 
+  :load_limit: 
+  :location_longitude: 133.0874599
+  :location_latitude: 35.2213031
+  :road_condition: 鹿谷川
+  :alternative_road: true
+  :road_division_cd: 1
+  :emergency_transport_road: false
+  :traffic_volume: 0
+  :occupied_property: true
+  :occupied_property_name: 下水道
+  :construction_year: 1963
+  :bridge_length: 6.3
+  :bridge_width: 6.6
+  :number_of_piers: 0
+  :number_of_spans: 0
+  :number_of_griders: 0
+  :number_of_beams: 0
+:outline:
+  :image: "/inspects/repositories/junme2/bridge4/dd9821d47577d8ad/outline.jpeg"
+  :memo: ''
+:inspects:
+- :image: "/inspects/repositories/junme2/bridge4/dd9821d47577d8ad/part_part_pavement_1.jpeg"
+  :seq: 1
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_PAVEMENT
+  :name: 舗装面
+  :checks:
+  - :image: "/inspects/repositories/junme2/bridge4/dd9821d47577d8ad/check_part_pavement_1_0.jpeg"
+    :seq: 0
+    :memo: ''
+    :map:
+      :x: -0.3402154398563734
+      :y: -0.17092651757188498
+      :z: 
+    :damages: []
+  - :image: "/inspects/repositories/junme2/bridge4/dd9821d47577d8ad/check_part_pavement_1_1.jpeg"
+    :seq: 1
+    :memo: ''
+    :map:
+      :x: 0.3994614003590664
+      :y: 0.36261980830670926
+      :z: 
+    :damages: []
+- :image: 
+  :seq: 2
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_DECK
+  :name: 床板
+  :checks: []
+- :image: 
+  :seq: 3
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks: []
+- :image: 
+  :seq: 4
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks: []
