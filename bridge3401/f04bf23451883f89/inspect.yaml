@@ -1,0 +1,66 @@
+---
+:header:
+  :junme: 2
+  :bridge_id: 3401
+  :inspect_cd: f04bf23451883f89
+  :judge_kbn: 0
+  :memo: ''
+  :created: '2020-12-21 22:44:51 +0900'
+  :finished: 
+  :latest: 
+:bridge:
+  :id: 3401
+  :bridge_name: 森脇橋
+  :bridge_name_kana: 
+  :address: 
+  :address_kana: 
+  :location_latitude: 
+  :location_longitude: 
+  :route_name: 下西谷森脇線
+  :road_condition: 
+  :alternative_road: 
+  :road_division_cd: 
+  :emergency_transport_road: 
+  :traffic_volume: 
+  :occupied_property: 
+  :occupied_property_name: 
+  :construction_year: 1981
+  :bridge_length: 45
+  :bridge_width: 5.9
+  :load_limit: 
+  :number_of_piers: 
+  :number_of_spans: 
+  :number_of_griders: 
+  :number_of_beams: 
+:outline:
+  :image: 
+  :memo: ''
+:inspects:
+- :image: 
+  :seq: 1
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_PAVEMENT
+  :name: 舗装面
+  :checks: []
+- :image: 
+  :seq: 2
+  :memo: ''
+  :group: GROUP_UPPER
+  :part: PART_DECK
+  :name: 床板
+  :checks: []
+- :image: 
+  :seq: 3
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks: []
+- :image: 
+  :seq: 4
+  :memo: ''
+  :group: GROUP_UNDER
+  :part: PART_ABUTMENT
+  :name: 橋台
+  :checks: []
