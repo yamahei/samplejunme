@@ -3,64 +3,96 @@
   :junme: 2
   :bridge_id: 3401
   :inspect_cd: f04bf23451883f89
-  :judge_kbn: 0
+  :judge_kbn: 1
   :memo: ''
   :created: '2020-12-21 22:44:51 +0900'
-  :finished: 
-  :latest: 
+  :finished: '2021-01-03T06:28:39.305Z'
+  :latest:
 :bridge:
   :id: 3401
   :bridge_name: 森脇橋
-  :bridge_name_kana: 
-  :address: 
-  :address_kana: 
-  :location_latitude: 
-  :location_longitude: 
+  :bridge_name_kana:
+  :address:
+  :address_kana:
+  :location_latitude:
+  :location_longitude:
   :route_name: 下西谷森脇線
-  :road_condition: 
-  :alternative_road: 
-  :road_division_cd: 
-  :emergency_transport_road: 
-  :traffic_volume: 
-  :occupied_property: 
-  :occupied_property_name: 
+  :road_condition:
+  :alternative_road:
+  :road_division_cd:
+  :emergency_transport_road:
+  :traffic_volume:
+  :occupied_property:
+  :occupied_property_name:
   :construction_year: 1981
   :bridge_length: 45
   :bridge_width: 5.9
-  :load_limit: 
-  :number_of_piers: 
-  :number_of_spans: 
-  :number_of_griders: 
-  :number_of_beams: 
+  :load_limit:
+  :number_of_piers:
+  :number_of_spans:
+  :number_of_griders:
+  :number_of_beams:
 :outline:
-  :image: 
+  :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/outline.jpeg"
   :memo: ''
 :inspects:
-- :image: 
+- :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/part_part_pavement_1.jpeg"
   :seq: 1
   :memo: ''
   :group: GROUP_UPPER
   :part: PART_PAVEMENT
   :name: 舗装面
-  :checks: []
-- :image: 
+  :checks:
+  - :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/check_part_pavement_1_0.jpeg"
+    :seq: 0
+    :memo: ''
+    :map:
+      :x: 0.27158034528552455
+      :y: 0.07370517928286853
+      :z:
+    :damages:
+    - :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/damage_part_pavement_1_0_0.jpeg"
+      :seq: 0
+      :memo: ''
+      :judge_kbn: 1
+      :map:
+        :x: 0.04716981132075472
+        :y: -0.06289308176100629
+        :z:
+- :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/part_part_deck_2.jpeg"
   :seq: 2
   :memo: ''
   :group: GROUP_UPPER
   :part: PART_DECK
   :name: 床板
   :checks: []
-- :image: 
+- :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/part_part_abutment_3.jpeg"
   :seq: 3
   :memo: ''
   :group: GROUP_UNDER
   :part: PART_ABUTMENT
   :name: 橋台
   :checks: []
-- :image: 
+- :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/part_part_abutment_4.jpeg"
   :seq: 4
   :memo: ''
   :group: GROUP_UNDER
   :part: PART_ABUTMENT
   :name: 橋台
-  :checks: []
+  :checks:
+  - :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/check_part_abutment_4_0.jpeg"
+    :seq: 0
+    :memo: ''
+    :map:
+      :x: 0.22244355909694555
+      :y: -0.24867256637168142
+      :z:
+    :damages:
+    - :image: "/inspects/repositories/junme2/bridge3401/f04bf23451883f89/damage_part_abutment_4_0_0.jpeg"
+      :seq: 0
+      :memo: ''
+      :judge_kbn: 2
+      :map:
+        :x: 0.03537735849056604
+        :y: -0.10777385159010601
+        :z:
